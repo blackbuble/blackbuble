@@ -14,7 +14,7 @@ Skills: PHP / REACT / JS / HTML / CSS
 🔭 I’m currently working on viding.co 
 
 📫 How to reach me:
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/blackbuble)  [<img src='https://www.svgrepo.com/show/115230/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/royyan-nobeel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/roy_nobeel)  
+[<img src='https://www.svgrepo.com/show/325237/github-outline.svg' alt='github' height='30'>](https://github.com/blackbuble)  [<img src='https://www.svgrepo.com/show/115230/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/royyan-nobeel/)  [<img src='https://www.svgrepo.com/show/159320/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/roy_nobeel)  
 
 
 ![Profile views](https://gpvc.arturio.dev/blackbuble)  
