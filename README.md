@@ -1,6 +1,7 @@
 ### Hi there 👋, 
 
-I'm Roy and I'm fullstack developer with more than 10 years experience. I've been working in various field, starting from ecommerce a 
+I'm Roy and I'm fullstack developer with more than 10 years experience. I've been working in various field, starting from ecommerce and ending at wedding website platform. I have always been hard working and goal's focused with proven results.
+
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"><img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200&quot;" style="max-width: 100%;"></a>
 
 <strong>TECH STACK</strong> 
