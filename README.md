@@ -7,7 +7,7 @@ Skills: PHP / REACT / JS / HTML / CSS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackbuble&show_icons=true&theme=great-gatsby&hide=contribs)](https://github.com/blackbuble/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackbuble&show_icons=true&theme=vue)](https://github.com/blackbuble/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackbuble&show_icons=true&theme=great-gatsby&layout=compact)](https://github.com/blackbuble/github-readme-stats)
 
 
 
