@@ -3,18 +3,20 @@
 
 Skills: PHP / REACT / JS / HTML / CSS
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackbuble&show_icons=true&theme=vue&hide=contribs)](https://github.com/blackbuble/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackbuble&show_icons=true&theme=vue)](https://github.com/blackbuble/github-readme-stats)
+
+
+
 - 🔭 I’m currently working on viding.co 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/blackbuble)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/royyan_nobeel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/roy_nobeel)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/blackbuble)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/royyan-nobeel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/roy_nobeel)  
 
 
 ![Profile views](https://gpvc.arturio.dev/blackbuble)  
 ### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackbuble&show_icons=true&theme=vue&hide=contribs)](https://github.com/blackbuble/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackbuble&show_icons=true&theme=vue)](https://github.com/blackbuble/github-readme-stats)
 
 
 <!--
