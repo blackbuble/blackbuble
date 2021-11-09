@@ -1,9 +1,10 @@
-### Hi there 👋, my name is Royyan Nobeel
-#### I am Website Developer
+### Hi there 👋, 
 
+I'm Roy and I'm fullstack developer with more than 10 years experience. I've been working in various field, starting from ecommerce a 
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"><img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200&quot;" style="max-width: 100%;"></a>
 
-Skills: PHP / REACT / JS / HTML / CSS
+<strong>TECH STACK</strong> 
+PHP / MYSQL / LARAVEL / REACTJS / REACT NATIVE / CORDOVA / HTML / CSS /BOOTSTRAP / JQUERY / JS / AWS
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackbuble&show_icons=true&theme=great-gatsby&hide=contribs)](https://github.com/blackbuble/github-readme-stats)
 
