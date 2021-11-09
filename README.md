@@ -9,15 +9,13 @@ Skills: PHP / REACT / JS / HTML / CSS
 
 
 
-- 🔭 I’m currently working on viding.co 
+🔭 I’m currently working on viding.co 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/blackbuble)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/royyan-nobeel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/roy_nobeel)  
+📫 How to reach me:
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/blackbuble)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/royyan-nobeel/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/roy_nobeel)  
 
 
 ![Profile views](https://gpvc.arturio.dev/blackbuble)  
-### Hi there 👋
-
 
 <!--
 **blackbuble/blackbuble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
