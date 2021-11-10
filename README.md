@@ -7,7 +7,7 @@
   <a href="mailto:rnobeel@gmail.com">
     <img src="https://img.shields.io/badge/-rnobeel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rnobeel@gmail.com" />
   </a>
-    <a href="https://github.com/blackbuble/?tab=follow">
+  <a href="https://github.com/blackbuble/?tab=follow">
     <img src="https://img.shields.io/github/followers/blackbuble?label=Follow&style=social" />
   </a>
 </span>
@@ -16,14 +16,14 @@
 
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"><img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200&quot;" style="max-width: 100%;"></a>
 
-<hr />
+
 <strong>TECH STACK</strong> 
 <blockquote>PHP / MYSQL / LARAVEL / REACTJS / REACT NATIVE / CORDOVA / HTML / CSS /BOOTSTRAP / JQUERY / JS / AWS</blockquote>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackbuble&show_icons=true&theme=great-gatsby&hide=contribs)](https://github.com/blackbuble/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackbuble&show_icons=true&theme=buefy&hide=contribs)](https://github.com/blackbuble/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackbuble&show_icons=true&theme=great-gatsby&layout=compact)](https://github.com/blackbuble/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackbuble&show_icons=true&theme=buefy&layout=compact)](https://github.com/blackbuble/github-readme-stats)
 
 
 ![Profile views](https://gpvc.arturio.dev/blackbuble)  
