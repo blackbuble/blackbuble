@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/-rnobeel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rnobeel@gmail.com" />
   </a>
   <a href="https://telegram.me/@roy_nobeel">
-    <img src="https://img.shields.io/badge/-telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.me/@roy_nobeel" />
+    <img src="https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=Telegram&logoColor=white&link=https://telegram.me/@roy_nobeel" />
   </a>
   <a href="https://github.com/blackbuble/?tab=follow">
     <img src="https://img.shields.io/github/followers/blackbuble?label=Follow&style=social" />
