@@ -20,10 +20,11 @@
 <strong>TECH STACK</strong> 
 <blockquote>PHP / MYSQL / LARAVEL / REACTJS / REACT NATIVE / CORDOVA / HTML / CSS /BOOTSTRAP / JQUERY / JS / AWS</blockquote>
 
+<p align="center">
+<img height="207em" src="https://github-readme-stats.vercel.app/api?username=blackbuble&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&role=OWNER,COLLABORATOR" align = "center"/>  
+<img height="207em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blackbuble&layout=compact&langs_count=10&hide_border=1&role=ORGANIZATION_MEMBER,OWNER,COLLABORATOR" align = "center"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackbuble&show_icons=true&theme=buefy&hide=contribs)](https://github.com/blackbuble/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blackbuble&show_icons=true&theme=buefy&layout=compact)](https://github.com/blackbuble/github-readme-stats)
+</p>
 
 
 ![Profile views](https://gpvc.arturio.dev/blackbuble)  
