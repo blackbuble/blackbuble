@@ -5,7 +5,7 @@
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"><img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200&quot;" style="max-width: 100%;"></a>
 
 <strong>TECH STACK</strong> 
-<p>PHP / MYSQL / LARAVEL / REACTJS / REACT NATIVE / CORDOVA / HTML / CSS /BOOTSTRAP / JQUERY / JS / AWS</p>
+<blockquote>PHP / MYSQL / LARAVEL / REACTJS / REACT NATIVE / CORDOVA / HTML / CSS /BOOTSTRAP / JQUERY / JS / AWS</blockquote>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=blackbuble&show_icons=true&theme=great-gatsby&hide=contribs)](https://github.com/blackbuble/github-readme-stats)
 
@@ -13,11 +13,9 @@
 
 
 
-🔭 I’m currently working on viding.co 
-
-📫 How to reach me:
+<center>
 [<img src='https://www.svgrepo.com/show/325237/github-outline.svg' alt='github' height='30'>](https://github.com/blackbuble)  [<img src='https://www.svgrepo.com/show/115230/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/royyan-nobeel/)  [<img src='https://www.svgrepo.com/show/159320/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/roy_nobeel)  
-
+</center>
 
 ![Profile views](https://gpvc.arturio.dev/blackbuble)  
 
