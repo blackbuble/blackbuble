@@ -32,7 +32,7 @@
 </p>
 
 
-![Profile views](https://gpvc.arturio.dev/blackbuble)  
+![](https://komarev.com/ghpvc/?username=blackbuble&color=bright-green)  
 
 <!--
 **blackbuble/blackbuble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
