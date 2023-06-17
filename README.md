@@ -32,7 +32,7 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=blackbuble&color=bright-green)  
+![](https://komarev.com/ghpvc/?username=blackbuble&color=brightgreen)  
 
 <!--
 **blackbuble/blackbuble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
